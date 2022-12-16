@@ -1,1 +1,1 @@
-0-alias
+git push -u origin master
